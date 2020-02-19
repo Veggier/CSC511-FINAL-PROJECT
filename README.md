@@ -1,7 +1,6 @@
 # Group Project
 
-Author: Feng Chen
-Partner: ZhongCai Jiang
+Author: Feng Chen, ZhongCai Jiang
 
 We created a shopping website.
 
