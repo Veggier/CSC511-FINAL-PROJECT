@@ -5,9 +5,9 @@ Author: Feng Chen, ZhongCai Jiang
 We created a shopping website.
 
 ## Time spent
- * Tutorials, research: 2 hours
- * Coding required stories: 2 hours
- * Improvement with Login and Favorite page: 1 hours
+ * Tutorials, research: 20 hours
+ * Coding required stories: 10 hours
+ * Improvement with Login and Favorite page: 3 hours
  
 
 ## GIF Walkthrough
