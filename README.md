@@ -1,4 +1,4 @@
-# Group Project
+# Shopify Website
 
 Author: Feng Chen, ZhongCai Jiang
 
